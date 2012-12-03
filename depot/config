@@ -6,4 +6,4 @@
 [remote "origin"]
 	fetch = +refs/*:refs/*
 	mirror = true
-	url = https://github.com/wallerjake/depot.git
+	url = git@github.com:wallerjake/depot
