@@ -2,6 +2,7 @@ class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
   def index
+    # making another comment
     # making comment here
     @products = Product.all
 
