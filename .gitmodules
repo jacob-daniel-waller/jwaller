@@ -1,0 +1,3 @@
+[submodule "depot_sub"]
+	path = depot_sub
+	url = https://github.com/wallerjake/depot.git
