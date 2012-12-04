@@ -1,0 +1,3 @@
+[submodule "rails_example"]
+	path = rails_example
+	url = https://github.com/wallerjake/rails_example.git
